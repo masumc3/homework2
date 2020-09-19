@@ -19,3 +19,33 @@ img {
   margin-right: auto;
   display: block;
 }
+div {
+  height: 150px;
+  padding: 25px;
+
+}
+
+#red {
+  background-color: #FF0000;
+  text-align: right;
+}
+#blue {
+  background-color: #0000FF;
+  text-align: left;
+}
+#yellow {
+  background-color: #FFFF00;
+  text-align: right;
+}
+#yellow h2 { text-shadow: 5px 5px 2px #c7e2c7;
+color: #000000;
+}
+#yellow p{ color: #000000;
+}
+#green {
+background-color: #008000;
+text-align: left;
+}
+footer p { text-align: right;
+padding-bottom:10px;
+padding-right:10px;
